@@ -2,8 +2,8 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
-
+https://raw.githubusercontent.com/shaoyesan7/my-epg/main/live.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 
 
